@@ -8,6 +8,7 @@ public class Runner {
 		Boolean bool = true;
 		
 		System.out.println("Hello World");
+		System.out.println("Hello World2");
 		System.out.println("I am " + age);
 		System.out.println("I am " + height + "ft tall");
 		System.out.println(homeAdd);
